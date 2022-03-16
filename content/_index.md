@@ -65,7 +65,7 @@ You'll find that composing small functions is better that create a whole framewo
 You'll start trusting your programming language and you'll low the amount of defensive code you create...
 
 {{% fragment %}}
-less cluttered code...{{% /fragment %}}
+less cluttered code (ahem!)...{{% /fragment %}}
 
 {{% fragment %}}
 better development time... {{% /fragment %}}
