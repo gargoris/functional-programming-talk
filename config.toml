@@ -1,6 +1,6 @@
 languageCode = "es-es"
 title = "Functional Programming"
-theme = "https://github.com/dzello/reveal-hugo"
+theme = ["github.com/dzello/reveal-hugo"]
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -12,4 +12,4 @@ isHTML = true
 
 [module]
 [[module.imports]]
-    path = 'https://github.com/dzello/reveal-hugo'
+    path = 'github.com/dzello/reveal-hugo'
