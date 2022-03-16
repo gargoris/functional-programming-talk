@@ -9,3 +9,7 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[module]
+[[module.imports]]
+    path = 'https://github.com/dzello/reveal-hugo'
