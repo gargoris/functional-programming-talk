@@ -15,7 +15,7 @@ highlight_theme = "zenburn"
 * Functions are first class citizens: Higher order functions
 * No OOP or other features 
 * Purity => no side effects in functions
-* Data transformations
+* Types, types and types
 
 ---
 ### Origins and development
@@ -51,9 +51,10 @@ highlight_theme = "zenburn"
 
 ---
 ## ...functional mindset
+{{< figure src="/images/swdddf.jpg" height="400px">}}
 
 ---
-Product people: find common use patterns and understand that requisites should work better in code if they are idempotent, no dependencies between them
+_Product people_: find common use patterns and understand that requisites should work better in code if they are idempotent, no dependencies between them
 
 {{% fragment %}}
 You'll think in business data structures and global patterns that transform data{{% /fragment %}}
